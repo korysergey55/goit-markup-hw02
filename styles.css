@@ -96,7 +96,8 @@ body {
 /* ====================== HERO ==============================================*/
 .hero{
   height: 600px;
-  background-image: url(../images/hero/Img-overlay.png);
+  background-color: var(--baner-color);
+  /* background-image: url(../images/hero/Img-overlay.png); */
   text-align: center;
 }
 .hero-title {
